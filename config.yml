@@ -1,0 +1,14 @@
+bannedWords:
+- Fuck
+- Penis
+- Luke
+wMessage: Welcome to SkullCraft 
+
+anti: true
+commandBlock: true
+w: true
+chatClear: true
+#Meow
+join: 0
+
+leave: 0

@@ -1,0 +1,14 @@
+name: ServerStuff
+version: 1.72
+main: com.Doctor.Essent.Main
+commands:
+  w:
+    description: Try it out
+  clearchat:
+    description: Clears the chat!
+  spamview:
+    description: Allows you to see when people spam and/or advertise
+  ss:
+    description: main command
+  sendplayers:
+    description: sends players to set server
